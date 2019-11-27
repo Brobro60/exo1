@@ -3,7 +3,7 @@
 
 int main()
 {
-	char s[1024];
+	char s[1024]; //Represente une chaine donc une ligne
 
 	while (scanf("%s", &s) != EOF)
 	{
